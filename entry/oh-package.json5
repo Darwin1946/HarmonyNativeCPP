@@ -6,6 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "libentry.so": "file:./src/main/cpp/types/libentry"
+    "libcalc.so": "file:./src/main/cpp/types/libcalc",
+    "libugc.so": "file:./src/main/cpp/types/libugc"
   }
 }

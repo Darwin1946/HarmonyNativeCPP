@@ -1,0 +1,1 @@
+export const QuickSort: (numArray: number[], sortType: string)=> number[];

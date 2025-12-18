@@ -1,6 +1,20 @@
 {
   "app": {
-    "signingConfigs": [],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\tangy\\.ohos\\config\\default_NativeCPP_8fB5Ii4lXGkmhoim6sLks6F2Cx_rFzZJjg12ATzQrIY=.cer",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001BC2AF09C73A0BDA206845901CE94D8A3F8EFC3979E7018F425DB14BE0248ACA316EA3FD25CAE257",
+          "profile": "C:\\Users\\tangy\\.ohos\\config\\default_NativeCPP_8fB5Ii4lXGkmhoim6sLks6F2Cx_rFzZJjg12ATzQrIY=.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\tangy\\.ohos\\config\\default_NativeCPP_8fB5Ii4lXGkmhoim6sLks6F2Cx_rFzZJjg12ATzQrIY=.p12",
+          "storePassword": "0000001B1C1F9FF7A072AEAD97279B4A250B086913B629AD453336D1D78124894FC9BCF2C99227E6415F08"
+        }
+      }
+    ],
     "products": [
       {
         "name": "default",
